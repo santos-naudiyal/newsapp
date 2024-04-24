@@ -25,3 +25,11 @@ samples, guidance on mobile development, and a full API reference.
 $ git clone https://github.com/santos-naudiyal/newsapp.git
 $ run pub get
 
+#output
+![WhatsApp Image 2024-04-24 at 09 49 33_19008b9d](https://github.com/santos-naudiyal/newsapp/assets/84222082/1e8f0090-87ac-473b-8b41-76cd256c3d6c)
+![WhatsApp Image 2024-04-24 at 09 49 33_b123e170](https://github.com/santos-naudiyal/newsapp/assets/84222082/ab94322d-8768-4d48-9f12-6cdc9cb5807c)
+![WhatsApp Image 2024-04-24 at 09 49 32_794d2710](https://github.com/santos-naudiyal/newsapp/assets/84222082/35f7dc18-b97e-466d-a699-863c69654134)
+![WhatsApp Image 2024-04-24 at 09 49 32_bfaf156e](https://github.com/santos-naudiyal/newsapp/assets/84222082/2bc0b527-fa6b-4a14-930b-f0e9dad10121)
+
+
+
