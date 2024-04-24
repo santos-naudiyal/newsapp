@@ -3,9 +3,9 @@
 A new Flutter project.
 
 # How to use the app
-first go to sign in option to create account in the app.
-swipe right to for view new news article on screen.
-Click on menu button of top right to select the category of new to show in screen.
+- first go to sign in option to create account in the app.
+- swipe right to for view new news article on screen.
+- Click on menu button of top right to select the category of news to show in screen.
 
 ## Getting Started
 
